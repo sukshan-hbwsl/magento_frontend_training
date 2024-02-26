@@ -1,1 +1,1 @@
-#magento videos simultaneous handson implementation
+#magento youtube playlist videos simultaneous handson implementation
