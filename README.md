@@ -1,1 +1,1 @@
-#magento videos simultaneous handson implementation
+# magento_frontend_training
