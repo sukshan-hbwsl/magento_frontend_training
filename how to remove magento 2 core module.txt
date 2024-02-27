@@ -1,6 +1,0 @@
-last time we disabled two factor authentication in order to login in to the magento admin panel
-so if we dont use certain modules, it is best to remove them completely 
-these modules are present in /app/etc/config.php file, if the value is set to 0 that means it is disabled
-'magento_twofactorauth' => 0
-so alaa goes on to show the process of how to remove the package, which involves the composer.json file.
-after that we run the composer update command in the terminal and wala the module is replace/removed
