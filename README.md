@@ -1,1 +1,1 @@
-#magento youtube playlist videos simultaneous handson implementation
+# magento_frontend_training
