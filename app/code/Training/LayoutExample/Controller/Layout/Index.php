@@ -13,9 +13,6 @@ class Index implements ActionInterface{
         $this->resultFactory = $resultFactory;
     }
     public function execute(){
-        $result= $this->resultFactory->create();
-        $result->getConfig()->getTitle()->set('sj layout page');
-        $result->getLayout()->getBlock('page.main.title')->setPageTitle("magento developer");
-        return $result;
+        return $this->resultFactory->create();
     }
 }
