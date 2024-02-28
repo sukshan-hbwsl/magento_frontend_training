@@ -3,4 +3,9 @@
     <head>
         <title>Layout Example</title>
     </head>
+    <body>
+        <referenceContainer name="content">
+            <block name="layout_example" class="Magento\Framework\View\Element\Template" template="Training_LayoutExample::content.phtml" />
+        </referenceContainer>
+    </body>
 </page>
